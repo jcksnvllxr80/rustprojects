@@ -61,4 +61,26 @@ NOTE: be sure to run `cargo build` after adding dependencies in the *Cargo.toml*
 
 ---
 
+## Projects
 
+### 1. First test project `"Hello, Rustaceans!"`
+
+OUTPUT:
+
+```bash
+aaron@ubuntu-mini:~/rustprojects/akhil-first-proj$ cargo run
+   Compiling akhil-first-proj v0.1.0 (/home/aaron/rustprojects/akhil-first-proj)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.62s
+     Running `target/debug/akhil-first-proj`
+ ___________________________
+< Hello, fellow rustaceans! >
+ ---------------------------
+        \
+         \
+            _~^~^~_
+        \) /  o o  \ (/
+          '_   -   _'
+          / '-----' \
+```
+
+### 2. 
