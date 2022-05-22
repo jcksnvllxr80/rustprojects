@@ -61,7 +61,9 @@ NOTE: be sure to run `cargo build` after adding dependencies in the *Cargo.toml*
 
 ---
 
-## Projects
+## Project Group A
+
+Based on this [video](https://www.youtube.com/playlist?list=PL5dTjWUk_cPaPhW2SQ1OCNwu3h8D9dYHh)
 
 ### 1. First test project `"Hello, Rustaceans!"`
 
@@ -83,4 +85,9 @@ aaron@ubuntu-mini:~/rustprojects/akhil-first-proj$ cargo run
           / '-----' \
 ```
 
-### 2. 
+### 2. Rust variables and mutability (mut)
+
+Variables in Rust are immutable unless defined using the `mut` keyword.
+
+### 3.
+
