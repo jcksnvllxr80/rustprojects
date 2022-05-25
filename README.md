@@ -89,5 +89,7 @@ aaron@ubuntu-mini:~/rustprojects/akhil-first-proj$ cargo run
 
 Variables in Rust are immutable unless defined using the `mut` keyword.
 
-### 3.
+### 3. Scope and Shadowing
+
+### 4.
 
