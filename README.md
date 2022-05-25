@@ -91,5 +91,7 @@ Variables in Rust are immutable unless defined using the `mut` keyword.
 
 ### 3. Scope and Shadowing
 
-### 4.
+### 4. Destructuring
+
+
 
