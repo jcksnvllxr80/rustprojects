@@ -95,5 +95,4 @@ Variables in Rust are immutable unless defined using the `mut` keyword.
 
 ### 5. Data Types
 
-
-
+---
