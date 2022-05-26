@@ -63,7 +63,7 @@ NOTE: be sure to run `cargo build` after adding dependencies in the *Cargo.toml*
 
 ## Project Group A
 
-Based on this [video](https://www.youtube.com/playlist?list=PL5dTjWUk_cPaPhW2SQ1OCNwu3h8D9dYHh)
+Based on this [video series](https://www.youtube.com/playlist?list=PL5dTjWUk_cPaPhW2SQ1OCNwu3h8D9dYHh)
 
 ### 1. First test project `"Hello, Rustaceans!"`
 
@@ -92,6 +92,8 @@ Variables in Rust are immutable unless defined using the `mut` keyword.
 ### 3. Scope and Shadowing
 
 ### 4. Destructuring
+
+### 5. Data Types
 
 
 
