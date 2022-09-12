@@ -96,3 +96,9 @@ Variables in Rust are immutable unless defined using the `mut` keyword.
 ### 5. Data Types
 
 ---
+
+### Rust compression
+
+![compression](compress/img/compression.png "compression")
+
+---
