@@ -99,6 +99,17 @@ Variables in Rust are immutable unless defined using the `mut` keyword.
 
 ### Rust compression
 
+Compress a file to zip
+
 ![compression](compress/img/compression.png "compression")
 
 ---
+
+### Rust  decompression
+
+Decompress a file // extract a zip file into its original dir structure
+
+- based on [this yt video](https://www.youtube.com/watch?v=mXIuTkGCL_0&t=1s)
+- yt video's [code](https://github.dev/AkhilSharma90/Rust-Decompress/blob/master/1.zip)
+
+![decompress](decompress/img/decompress.png "decompress")
